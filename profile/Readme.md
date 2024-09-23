@@ -6,4 +6,4 @@ UPLEARN is led by the Department of Family and Community Medicine, University of
 ## Our mission
 As the backbone of the health system, family doctors and other primary care providers are embedded in their communities. Leveraging this connection, UPLEARN’s mission is to contribute to a Learning Health System by engaging patients, care providers, administrators, and policymakers in prioritizing research questions, supporting DFCM faculty to engage in research, and translating research findings into tangible changes in policy and care.
 
-Please contact Tao Chen (taoc.chen@utoronto.ca) or Michael Rzadki (michael.rzadki@utoronto.ca) to access the repository.
+For access to the repository, please contact Tao Chen (taoc.chen@utoronto.ca) or Michael Rzadki (michael.rzadki@utoronto.ca).
